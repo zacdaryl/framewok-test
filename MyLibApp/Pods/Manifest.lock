@@ -1,0 +1,16 @@
+PODS:
+  - MyLib (0.0.3)
+
+DEPENDENCIES:
+  - MyLib
+
+SPEC REPOS:
+  https://github.com/zacdaryl/Specs.git:
+    - MyLib
+
+SPEC CHECKSUMS:
+  MyLib: a178d912168fdfa6c80093fdb9d51e4cdcf4b43d
+
+PODFILE CHECKSUM: d66deb61dc2392e4b0efab612a61a470bd7c9302
+
+COCOAPODS: 1.8.3

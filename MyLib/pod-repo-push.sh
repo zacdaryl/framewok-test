@@ -1,0 +1,1 @@
+pod repo push zac-spec MyLib.podspec --allow-warnings
